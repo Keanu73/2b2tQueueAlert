@@ -1,0 +1,31 @@
+{
+  "name": "2b2tqueuealert",
+  "version": "1.0.0",
+  "description": "Sends you a notification when the queue dips so you can quickly join the queue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keanu73/2b2tQueueAlert.git"
+  },
+  "keywords": [
+    "2b2t"
+  ],
+  "author": "Keanu73 <keanu@keanu73.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Keanu73/2b2tQueueAlert/issues"
+  },
+  "homepage": "https://github.com/Keanu73/2b2tQueueAlert#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "moment": "^2.24.0",
+    "moment-duration-format": "^2.3.2",
+    "node-notifier": "^5.4.0",
+    "open": "^6.4.0",
+    "path": "^0.12.7",
+    "ws": "^7.1.1"
+  }
+}
