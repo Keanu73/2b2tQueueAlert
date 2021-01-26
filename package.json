@@ -23,7 +23,7 @@
     "chalk": "^2.4.2",
     "moment": "^2.24.0",
     "moment-duration-format": "^2.3.2",
-    "node-notifier": "^5.4.0",
+    "node-notifier": "^8.0.1",
     "open": "^6.4.0",
     "path": "^0.12.7",
     "ws": "^7.1.1"
