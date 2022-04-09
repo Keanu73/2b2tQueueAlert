@@ -21,7 +21,7 @@
   "homepage": "https://github.com/Keanu73/2b2tQueueAlert#readme",
   "dependencies": {
     "chalk": "^2.4.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "moment-duration-format": "^2.3.2",
     "node-notifier": "^8.0.1",
     "open": "^6.4.0",
